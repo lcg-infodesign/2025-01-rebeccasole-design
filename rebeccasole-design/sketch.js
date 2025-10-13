@@ -385,7 +385,7 @@ function drawMeteorComparison() {
   //titolo
   fill(255);
   textSize(18);
-  text("Comparison between means:", 50, 750);
+  text("Comparison of means:", 50, 750);
 
   let startY = 820;
   let spacing = 120;
